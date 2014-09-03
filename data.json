@@ -1,0 +1,247 @@
+[
+  {
+    "Parent":"Others",
+    "Children":"ManagedBy",
+    "Customers":1
+  },
+  {
+    "Parent":"Others",
+    "Children":"PremiumYahoo",
+    "Customers":178
+  },
+  {
+    "Parent":"Others",
+    "Children":"Reseller",
+    "Customers":176
+  },
+  {
+    "Parent":"Others",
+    "Children":"SMB",
+    "Customers":8594
+  },
+  {
+    "Parent":"Adult & Gambling",
+    "Children":"PremiumYahoo",
+    "Customers":22
+  },
+  {
+    "Parent":"Adult & Gambling",
+    "Children":"SMB",
+    "Customers":8
+  },
+  {
+    "Parent":"Autos",
+    "Children":"PremiumYahoo",
+    "Customers":225
+  },
+  {
+    "Parent":"Autos",
+    "Children":"Reseller",
+    "Customers":114
+  },
+  {
+    "Parent":"Autos",
+    "Children":"SMB",
+    "Customers":1240
+  },
+  {
+    "Parent":"B2B Services",
+    "Children":"PremiumYahoo",
+    "Customers":85
+  },
+  {
+    "Parent":"B2B Services",
+    "Children":"Reseller",
+    "Customers":4
+  },
+  {
+    "Parent":"B2B Services",
+    "Children":"SMB",
+    "Customers":1132
+  },
+  {
+    "Parent":"B2C Services",
+    "Children":"PremiumYahoo",
+    "Customers":208
+  },
+  {
+    "Parent":"B2C Services",
+    "Children":"Reseller",
+    "Customers":46
+  },
+  {
+    "Parent":"B2C Services",
+    "Children":"SMB",
+    "Customers":4436
+  },
+  {
+    "Parent":"Careers & Education",
+    "Children":"PremiumYahoo",
+    "Customers":169
+  },
+  {
+    "Parent":"Careers & Education",
+    "Children":"Reseller",
+    "Customers":4
+  },
+  {
+    "Parent":"Careers & Education",
+    "Children":"SMB",
+    "Customers":1229
+  },
+  {
+    "Parent":"Community, Social, & Charitable Groups",
+    "Children":"PremiumYahoo",
+    "Customers":55
+  },
+  {
+    "Parent":"Community, Social, & Charitable Groups",
+    "Children":"SMB",
+    "Customers":50
+  },
+  {
+    "Parent":"CPG",
+    "Children":"PremiumYahoo",
+    "Customers":89
+  },
+  {
+    "Parent":"CPG",
+    "Children":"SMB",
+    "Customers":4
+  },
+  {
+    "Parent":"Entertainment",
+    "Children":"PremiumYahoo",
+    "Customers":99
+  },
+  {
+    "Parent":"Entertainment",
+    "Children":"Reseller",
+    "Customers":15
+  },
+  {
+    "Parent":"Entertainment",
+    "Children":"SMB",
+    "Customers":1121
+  },
+  {
+    "Parent":"Financial Services & Insurance",
+    "Children":"PremiumYahoo",
+    "Customers":266
+  },
+  {
+    "Parent":"Financial Services & Insurance",
+    "Children":"Reseller",
+    "Customers":388
+  },
+  {
+    "Parent":"Financial Services & Insurance",
+    "Children":"SMB",
+    "Customers":1861
+  },
+  {
+    "Parent":"Government",
+    "Children":"PremiumYahoo",
+    "Customers":4
+  },
+  {
+    "Parent":"Government",
+    "Children":"SMB",
+    "Customers":8
+  },
+  {
+    "Parent":"Health & Wellness",
+    "Children":"PremiumYahoo",
+    "Customers":207
+  },
+  {
+    "Parent":"Health & Wellness",
+    "Children":"Reseller",
+    "Customers":33
+  },
+  {
+    "Parent":"Health & Wellness",
+    "Children":"SMB",
+    "Customers":2272
+  },
+  {
+    "Parent":"Investments",
+    "Children":"PremiumYahoo",
+    "Customers":2
+  },
+  {
+    "Parent":"Investments",
+    "Children":"SMB",
+    "Customers":15
+  },
+  {
+    "Parent":"Reference",
+    "Children":"PremiumYahoo",
+    "Customers":24
+  },
+  {
+    "Parent":"Reference",
+    "Children":"SMB",
+    "Customers":32
+  },
+  {
+    "Parent":"Restaurants & Food",
+    "Children":"PremiumYahoo",
+    "Customers":24
+  },
+  {
+    "Parent":"Restaurants & Food",
+    "Children":"Reseller",
+    "Customers":4
+  },
+  {
+    "Parent":"Restaurants & Food",
+    "Children":"SMB",
+    "Customers":291
+  },
+  {
+    "Parent":"Retail",
+    "Children":"PremiumYahoo",
+    "Customers":796
+  },
+  {
+    "Parent":"Retail",
+    "Children":"Reseller",
+    "Customers":187
+  },
+  {
+    "Parent":"Retail",
+    "Children":"SMB",
+    "Customers":7243
+  },
+  {
+    "Parent":"Technology & Telecommunications",
+    "Children":"PremiumYahoo",
+    "Customers":208
+  },
+  {
+    "Parent":"Technology & Telecommunications",
+    "Children":"Reseller",
+    "Customers":42
+  },
+  {
+    "Parent":"Technology & Telecommunications",
+    "Children":"SMB",
+    "Customers":2317
+  },
+  {
+    "Parent":"Travel & Transportation",
+    "Children":"PremiumYahoo",
+    "Customers":229
+  },
+  {
+    "Parent":"Travel & Transportation",
+    "Children":"Reseller",
+    "Customers":15
+  },
+  {
+    "Parent":"Travel & Transportation",
+    "Children":"SMB",
+    "Customers":1393
+  }
+]
